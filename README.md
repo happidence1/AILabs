@@ -2,7 +2,7 @@
   <img src="https://github.com/jtao/ailabs/blob/master/images/ailabs.svg" alt="AI Labs"/>
 </p>
 
-# AI Tech Labs
+# AI Tech Labs (Credit to Dr. Jian Tao at TAMU HPRC)
 A set of Jupyter Notebooks to get a new user started with his/her machine learning projects on [Texas A&M High Performance Research Computing](https://hprc.tamu.edu/) systems. There are totally four labs.
 
 ### Lab 1. Jupyter Notebook (15 mins)
